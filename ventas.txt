@@ -1,0 +1,3 @@
+10000000,h333,Camioneta,luis,jose,1200024004
+10000000,h334,Camioneta,Juanes,Cano,1027803645
+10000000,jh333,Camioneta,Jhon,Serna,1027803638
